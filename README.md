@@ -1,4 +1,4 @@
-# HP Probook 440 G4 - OpenCore Configuation
+ # HP Probook 440 G4 - OpenCore Configuation
 
 <img align="right" src="https://raw.githubusercontent.com/ssimondev/hackintosh/main/screenshot.png" alt="macOS Ventura running on the HP Probook 440 G4" width="425">
 
@@ -8,7 +8,7 @@
 <p align="center">
    <strong>Status: Maintained</strong>
    <br />
-   <strong>Version: </strong>1.0.0
+   <strong>Version: </strong>1.0.1
    <br />
    <a href="https://github.com/ssimondev/hackintosh/releases"><strong>Download now »</strong></a>
    <br />
@@ -77,6 +77,7 @@ HeliPort app</strong></a>. If your card is from another manufacturer, please che
 - [X] FaceTime / iMessage (iServices)
 - [X] HDMI
 - [X] Handoff / Universal Clipboard
+- [X] SD Card Reader
 - [X] USB-C
 
 </details>
@@ -89,7 +90,6 @@ HeliPort app</strong></a>. If your card is from another manufacturer, please che
 - [ ] AirDrop & Continuity
 - [ ] Fingerprint Reader
 - [ ] Bluetooth
-- [ ] SD Card Reader
 - [ ] VGA
 - [ ] Audio jack
 
