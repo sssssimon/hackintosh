@@ -3,6 +3,7 @@
 <img align="right" src="https://raw.githubusercontent.com/ssimondev/hackintosh/main/screenshot.png" alt="macOS Ventura running on the HP Probook 440 G4" width="425">
 
 [![macOS](https://img.shields.io/badge/macOS-Ventura-orange.svg)](https://developer.apple.com/documentation/macos-release-notes)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.4-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 <p align="center">
    <strong>Status: Maintained</strong>
