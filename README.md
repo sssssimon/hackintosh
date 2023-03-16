@@ -1,4 +1,4 @@
- # HP Probook 440 G4 - OpenCore Configuation
+# HP Probook 440 G4 - OpenCore Configuation
 
 <img align="right" src="https://raw.githubusercontent.com/ssimondev/hackintosh/main/screenshot.png" alt="macOS Ventura running on the HP Probook 440 G4" width="425">
 
@@ -20,6 +20,7 @@
 </br>
 
 ## ⚠️ Disclaimer
+
 This guide is only for the HP Probook 440 G4. I am NOT responsible for any harm you cause to your device. This guide is provided "as-is" and all steps taken are done at your own risk.
 
 > Style of this README are from [Valnoxy](https://github.com/Valnoxy/t480-oc).
@@ -27,24 +28,25 @@ This guide is only for the HP Probook 440 G4. I am NOT responsible for any harm 
 &nbsp;
 
 ## Introduction
+
 <details>
 <summary><strong>💻 My Hardware</strong></summary>
 <br>
 These are the Hardware component I use. But this OpenCore configuation <strong>should still work</strong> with your device, even if the components are not equal.
 
 > **Note** Check the model of your WiFi & Bluetooth card. Intel cards should be compatible with itlwm and <a href="https://github.com/OpenIntelWireless/HeliPort/releases"><strong>
-HeliPort app</strong></a>. If your card is from another manufacturer, please check if your card supports macOS.
+> HeliPort app</strong></a>. If your card is from another manufacturer, please check if your card supports macOS.
 
-| Category  | Component                            |
-| --------- | ------------------------------------ |
-| CPU       | Intel Core i5-7200U                  |
-| GPU       | Intel HD Graphics 620                |
-| SSD       | Samsung MZNTY256HDHP-000H1 SSD       |
-| Memory    | 4GB DDR4 2133Mhz                     |
-| Camera    | 720p Camera                          |
-| WiFi & BT | Intel Dual Band Wireless-AC 7265     |
+| Category  | Component                        |
+| --------- | -------------------------------- |
+| CPU       | Intel Core i5-7200U              |
+| GPU       | Intel HD Graphics 620            |
+| SSD       | Samsung MZNTY256HDHP-000H1 SSD   |
+| Memory    | 4GB DDR4 2133Mhz                 |
+| Camera    | 720p Camera                      |
+| WiFi & BT | Intel Dual Band Wireless-AC 7265 |
 
-</details>  
+</details>
 
 ## Post-install (optional)
 
@@ -58,27 +60,25 @@ HeliPort app</strong></a>. If your card is from another manufacturer, please che
 
 </details>
 
-
-
 ## Status
 
 <details>  
 <summary><strong>✅ What's working</strong></summary>
 </br>
- 
-- [X] Intel WiFi (thanks to [itlwn](https://github.com/OpenIntelWireless/itlwm))
-- [X] Brightness / Volume Control
-- [X] Battery Information
-- [X] Audio (Speaker)
-- [X] USB Ports & Built-in Camera
-- [X] Graphics Acceleration
-- [X] PS2 Touchpad
-- [X] Power management / Sleep
-- [X] FaceTime / iMessage (iServices)
-- [X] HDMI
-- [X] Handoff / Universal Clipboard
-- [X] SD Card Reader
-- [X] USB-C
+
+- [x] Intel WiFi (thanks to [itlwn](https://github.com/OpenIntelWireless/itlwm))
+- [x] Brightness / Volume Control
+- [x] Battery Information
+- [x] Audio (Speaker)
+- [x] USB Ports & Built-in Camera
+- [x] Graphics Acceleration
+- [x] PS2 Touchpad
+- [x] Power management / Sleep
+- [x] FaceTime / iMessage (iServices)
+- [x] HDMI
+- [x] Handoff / Universal Clipboard
+- [x] SD Card Reader
+- [x] USB-C
 
 </details>
 
