@@ -71,12 +71,11 @@ HeliPort app</strong></a>. If your card is from another manufacturer, please che
 - [X] Audio (Audio Jack & Speaker)
 - [X] USB Ports & Built-in Camera
 - [X] Graphics Acceleration
-- [X] Trackpoint / Touchpad
+- [X] PS2 Touchpad
 - [X] Power management / Sleep
 - [X] FaceTime / iMessage (iServices)
 - [X] HDMI
 - [X] Handoff / Universal Clipboard
-- [X] Sidecar (Cable) / AirPlay to Mac
 - [X] USB-C
 
 </details>
