@@ -38,13 +38,12 @@ HeliPort app</strong></a>. If your card is from another manufacturer, please che
 | --------- | ------------------------------------ |
 | CPU       | Intel Core i5-7200U                  |
 | GPU       | Intel HD Graphics 620                |
-| SSD       | Samsung SSD                          |
-| Memory    | 4GB DDR4 2133Mhz                        |
+| SSD       | Samsung MZNTY256HDHP-000H1 SSD       |
+| Memory    | 4GB DDR4 2133Mhz                     |
 | Camera    | 720p Camera                          |
 | WiFi & BT | Intel Dual Band Wireless-AC 7265     |
 
 </details>  
-&nbsp;
 
 ## Post-install (optional)
 
