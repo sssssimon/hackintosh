@@ -13,7 +13,7 @@
    <br />
    <a href="https://github.com/ssimondev/hackintosh/issues">Report Bug</a>
    ·
-   <a href="https://github.com/ssimondev/hackintosh/blob/main/EFI">View EFI</a>
+   <a href="https://github.com/ssimondev/hackintosh/blob/main/EFI/OC">View EFI</a>
   </p>
 </p>
 </br>
