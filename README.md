@@ -65,10 +65,10 @@ HeliPort app</strong></a>. If your card is from another manufacturer, please che
 <summary><strong>✅ What's working</strong></summary>
 </br>
  
-- [X] Intel WiFi & Bluetooth (thanks to [itlwn](https://github.com/OpenIntelWireless/itlwm))
+- [X] Intel WiFi (thanks to [itlwn](https://github.com/OpenIntelWireless/itlwm))
 - [X] Brightness / Volume Control
 - [X] Battery Information
-- [X] Audio (Audio Jack & Speaker)
+- [X] Audio (Speaker)
 - [X] USB Ports & Built-in Camera
 - [X] Graphics Acceleration
 - [X] PS2 Touchpad
@@ -87,6 +87,10 @@ HeliPort app</strong></a>. If your card is from another manufacturer, please che
 - [ ] Safari DRM ```Use Chromium powered Browser or Firefox to watch Amazon Prime Video, Netflix, Disney+ and others```
 - [ ] AirDrop & Continuity
 - [ ] Fingerprint Reader
+- [ ] Bluetooth
+- [ ] SD Card Reader
+- [ ] VGA
+- [ ] Audio jack
 
 </details>
 
