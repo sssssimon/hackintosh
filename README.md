@@ -6,7 +6,7 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.4-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 <p align="center">
-   <strong>Status: Maintained</strong>
+   <strong>Status: Unmaintained</strong>
    <br />
    <strong>Version: </strong>1.0.1
    <br />
