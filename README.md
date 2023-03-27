@@ -23,7 +23,7 @@
 
 This guide is only for the HP Probook 440 G4. I am NOT responsible for any harm you cause to your device. This guide is provided "as-is" and all steps taken are done at your own risk.
 
-> Style of this README are from [Valnoxy](https://github.com/Valnoxy/t480-oc).
+> Style of this README is strongly copied from [Valnoxy](https://github.com/Valnoxy/t480-oc).
 
 &nbsp;
 
@@ -45,6 +45,7 @@ These are the Hardware component I use. But this OpenCore configuation <strong>s
 | Memory    | 4GB DDR4 2133Mhz                 |
 | Camera    | 720p Camera                      |
 | WiFi & BT | Intel Dual Band Wireless-AC 7265 |
+| Ethermet  | Realtek 8****                    |
 
 </details>
 
@@ -66,6 +67,7 @@ These are the Hardware component I use. But this OpenCore configuation <strong>s
 <summary><strong>✅ What's working</strong></summary>
 </br>
 
+- [X] Realtek Ethernet
 - [x] Intel WiFi (thanks to [itlwn](https://github.com/OpenIntelWireless/itlwm))
 - [x] Brightness / Volume Control
 - [x] Battery Information
